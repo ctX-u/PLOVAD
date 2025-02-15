@@ -76,7 +76,8 @@ The `--dataset` option can be `ucf`, `sh`, `xd`, or `ub`, referring to UCF-Crime
 
 Our code references:
 - [XDVioDet](https://github.com/Roc-Ng/XDVioDet)
-- [PEL4VAD](https://github.com/yujiangpu20/PEL4VAD?tab=readme-ov-file)
+- [Efficent Prompts](https://github.com/ju-chen/Efficient-Prompt)
+- [PEL4VAD](https://github.com/yujiangpu20/PEL4VAD)
 
 ## Citation
 If you use this code or find our work helpful, please cite our paper:
