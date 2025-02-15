@@ -1,0 +1,7 @@
+B1: Fighting
+B2: Shooting
+B4: Riot
+B5: Abuse
+B6: Car accident
+G: Explosion
+A: Normal

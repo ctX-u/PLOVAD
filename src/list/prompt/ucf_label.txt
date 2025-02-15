@@ -1,0 +1,14 @@
+normal
+abuse
+arrest
+arson
+assault
+burglary
+explosion
+fighting
+roadAccidents
+robbery
+shooting
+shoplifting
+stealing
+vandalism

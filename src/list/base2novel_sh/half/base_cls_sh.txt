@@ -1,0 +1,6 @@
+vehicle
+skateboard
+running
+robbery
+fighting
+

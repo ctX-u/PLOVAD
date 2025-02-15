@@ -1,0 +1,9 @@
+{
+  "Fighting": "B1",
+  "Shooting": "B2",
+  "Riot": "B4",
+  "Abuse": "B5",
+  "Car accident": "B6",
+  "Explosion": "G",
+  "Normal": "A"
+}

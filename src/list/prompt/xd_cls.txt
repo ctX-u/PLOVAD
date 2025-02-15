@@ -1,0 +1,7 @@
+normal
+fighting
+shooting
+riot
+abuse
+car accident
+explosion

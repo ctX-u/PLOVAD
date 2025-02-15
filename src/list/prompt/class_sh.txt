@@ -1,0 +1,18 @@
+normal
+vehicle
+chasing
+skateboard
+circuit
+running
+jumping
+fall
+car
+robbery
+fighting
+throwing object
+push
+stoop
+vaudeville
+monocycle
+hurdle
+step
